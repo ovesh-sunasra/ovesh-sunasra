@@ -16,7 +16,7 @@ Building scalable web applications using Java, Python, PHP and modern frontend t
 - ☕ Backend Development using **Java, Spring Boot & Microservices**
 - 🐍 Backend Development using **Python**
 - 🐘 Web Development using **PHP & Laravel**
-- 🌐 Frontend Development using **Angular, JavaScript, HTML & CSS**
+- 🌐 Frontend Development using **React, Angular, JavaScript, HTML & CSS**
 - 🗄️ Databases: **MySQL, PostgreSQL, MongoDB**
 - ☁️ Cloud & DevOps: **AWS, Docker, Jenkins**
 - 🔐 Authentication using **JWT & Spring Security**
@@ -41,7 +41,7 @@ Spring Boot • Microservices • Laravel • REST APIs • Hibernate • JPA
 
 ### Frontend
 
-Angular • HTML5 • CSS3 • Bootstrap
+React • Angular • HTML5 • CSS3 • Bootstrap
 
 ### Database
 
