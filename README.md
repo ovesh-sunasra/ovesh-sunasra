@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer | Java • Spring Boot • React • Angular • Python • PHP
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;3.6%2B+Years+Professional+Experience;Java+Backend+Developer;Spring+Boot+%7C+Microservices;React+Developer;Angular+Developer;REST+API+Development;Python+Developer;PHP+%7C+Laravel;AWS+%7C+Docker+%7C+Kafka;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;4.1%2B+Years+Professional+Experience;Java+Backend+Developer;Spring+Boot+%7C+Microservices;React+Developer;Angular+Developer;REST+API+Development;Python+Developer;PHP+%7C+Laravel;AWS+%7C+Docker+%7C+Kafka;Always+Learning+New+Technologies" />
 
 <br>
 
@@ -16,7 +16,7 @@
 
 # 💫 About Me
 
-I'm a **Full Stack Developer** with **3.6+ years of professional experience** in designing and developing scalable enterprise applications.
+I'm a **Full Stack Developer**  in designing and developing scalable enterprise applications.
 
 My primary expertise is in **Java Backend Development** using Spring Boot, Microservices, REST APIs and modern cloud technologies.
 
@@ -26,7 +26,7 @@ I also build modern frontend and backend applications using **React**, **Angular
 
 # 💼 Professional Experience
 
-Over the last **3.6+ years**, I have worked on enterprise applications involving:
+Over the last **4.1+ years**, I have worked on enterprise applications involving:
 
 - ☕ Java
 - 🌱 Spring Boot
